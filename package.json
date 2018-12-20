@@ -1,0 +1,22 @@
+{
+  "name": "evan-david-starwars",
+  "version": "1.0.0",
+  "description": "Star wars stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei27/evan-david-starwars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei27/evan-david-starwars/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei27/evan-david-starwars#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
